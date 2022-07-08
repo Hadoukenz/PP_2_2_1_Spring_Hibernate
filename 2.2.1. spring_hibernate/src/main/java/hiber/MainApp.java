@@ -51,6 +51,7 @@ public class MainApp {
 //         System.out.println();
 //      }
 
+      //Ожидаемый результат - User3
       System.out.println(userService.getUserByCarModelAndSeries("Toyota", 2));
 
       context.close();
